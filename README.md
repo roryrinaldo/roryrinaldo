@@ -1,11 +1,21 @@
 ## About
 
-👋 Hi there! I'm Rory Rinaldo, a passionate Full Stack Developer with over 5 years of coding experience, currently crafting innovative solutions at PT. Digital Otoma Solusi. I hold a Bachelor's degree in Applied Computer Science, specializing in Information Systems, from the [Vocational College of Politeknik Caltex Riau](https://pcr.ac.id/), Indonesia.
+👋 Hi there! I'm Rory Rinaldo, a Technology Architect & Full-Stack Engineer from Indonesia.
 
-🚀 I thrive on turning complex problems into sleek, efficient applications. Whether it's backend or frontend, I enjoy every step of the development journey.
+I design and build real-world digital systems across full-stack web development, enterprise dashboards, infrastructure monitoring, mobile applications, and AI-powered solutions.
 
-💡 Let's collaborate and create something amazing together! I also accept requests to develop custom applications tailored to your needs. Feel free to reach out and let's bring your ideas to life!
+Currently, I work at PT. Digital Otoma Solusi, contributing to enterprise platforms, data center-related systems, infrastructure monitoring, and technical solution architecture. I also work on AI and edge-based initiatives, including video analytics and intelligent operational platforms.
 
+I hold a Bachelor's degree in Applied Computer Science, specializing in Information Systems, from the Vocational College of Politeknik Caltex Riau, Indonesia.
+
+Focus Areas
+- Technology Architecture
+- Full-Stack Web Development
+- Enterprise Dashboard
+- Infrastructure Monitoring
+- Edge AI & Computer Vision
+- Mobile App Development
+- Database & Analytics Systems
 
 **Skills & Technologies**
 ----
