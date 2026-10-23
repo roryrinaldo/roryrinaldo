@@ -1,6 +1,6 @@
 ## About
 
-👋 Hi there! I'm Rory Rinaldo, a Technology Architect & Full-Stack Engineer from Indonesia.
+👋 Hi there! I'm Rory Rinaldo, a Solution Architect & Full-Stack Engineer from Indonesia.
 
 I design and build real-world digital systems across full-stack web development, enterprise dashboards, infrastructure monitoring, mobile applications, and AI-powered solutions.
 
