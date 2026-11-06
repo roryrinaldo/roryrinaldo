@@ -6,7 +6,7 @@ I design and build real-world digital systems across full-stack web development,
 
 Currently, I work at PT. Digital Otoma Solusi, contributing to enterprise platforms, data center-related systems, infrastructure monitoring, and technical solution architecture. I also work on AI and edge-based initiatives, including video analytics and intelligent operational platforms.
 
-I hold a Bachelor's degree in Applied Computer Science, specializing in Information Systems, from the Vocational College of Politeknik Caltex Riau, Indonesia.
+I hold a Bachelor of Applied Information Systems, from the Vocational College of Politeknik Caltex Riau, Indonesia.
 
 Focus Areas
 - Technology Architecture
